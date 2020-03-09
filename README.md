@@ -1,4 +1,4 @@
-# _A Kleenex blog pages_
+# _A blog site_
 
 #### _This demonstrates knowledge of basic web stuff._
 
@@ -6,11 +6,11 @@
 
 ## Description
 
-_A kleenex page which demonstrates html and css basics, including divs._
+_A walrus and columns project which demonstrates the use of divs with classes.
 
 ## Setup/Installation Requirements
 
-Clone the repo and open the index.html file
+Clone this repo and click on the .html files
 
 ## Known Bugs
 
