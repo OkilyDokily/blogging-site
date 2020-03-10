@@ -6,7 +6,7 @@
 
 ## Description
 
-_A walrus and columns project which demonstrates the use of divs with classes.
+_A walrus and columns project which demonstrates the use of divs with classes._
 
 ## Setup/Installation Requirements
 
